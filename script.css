@@ -1,0 +1,38 @@
+
+/* cor do fundo e do texto da pagina */
+body {
+    background-color: #000000;
+    color: rgb(255, 254, 254);
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: #ff000091;
+    color: #000000;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* titulo principal */
+#produtos h1 {
+    color: #e4e6dd;
+}
+
+/* titulos dos produtos */
+#produtos h1 {
+    color: #ff0000;
+}
+
+/* descrições dos produtos */
+#produtos p {
+    color: #dddddd;
+}
+
+
+ footer {background-color: #3e3640;
+    color: #f5ecec;
+    text-align: center;
+    padding: 10px 0;
+    bottom: 0;
+    width: 100%;}
+
+    
