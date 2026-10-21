@@ -6,7 +6,7 @@ body {
     font-family: Arial, sans-serif;
 }
 header {
-    background-color: #ff000091;
+    background-color: #f03e3e;
     color: #000000;
     text-align: center;
     padding: 20px 0;
@@ -28,7 +28,7 @@ header {
 }
 
 
- footer {background-color: #3e3640;
+footer {background-color: #3e3640;
     color: #f5ecec;
     text-align: center;
     padding: 10px 0;
